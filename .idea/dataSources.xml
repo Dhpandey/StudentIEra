@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3992250549">
+    <data-source source="LOCAL" name="StudentIEra dev" uuid="89d35c45-6576-464c-9760-65c626e53948">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/studentinformation</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfcedfc2dfcfdfcfdfd8dfcbdfc0</user-password>
+      <libraries>
+        <library>
+          <url>file://$PROJECT_DIR$/lib/mysql-connector-java-5.1.23-bin.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
